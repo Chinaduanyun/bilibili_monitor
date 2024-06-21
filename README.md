@@ -1,4 +1,4 @@
- ```markdown
+
 # bilibili_monitor
 
 ## 简介
@@ -14,7 +14,7 @@
    ```bash
    git clone https://github.com/Chinaduanyun/bilibili_monitor.git
    cd bilibili_monitor
-   ```
+
 
 2. **安装依赖**：
  
@@ -31,13 +31,12 @@ receiver_email = recipient_email@example.com
 
 [Bilibili]
 video_url = https://www.bilibili.com/video/BV*****
-```
+
 
 ## 使用
 1. **运行脚本**：
    ```bash
    python bilibili_monitor.py
-   ```
 
 
 ## 自定义报告频率
@@ -48,6 +47,6 @@ video_url = https://www.bilibili.com/video/BV*****
 
 ## 许可证
 本项目采用 [MIT 许可证](LICENSE)。
-```
+
 
 这个 `README.md` 文件提供了项目的简介、功能特性、安装步骤、配置方法、使用说明、自定义报告频率的说明、贡献指南以及许可证信息。希望这能帮助用户更好地理解和使用 `bilibili_monitor` 项目。
